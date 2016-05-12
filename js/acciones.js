@@ -6,7 +6,7 @@ $(document).ready(function (e){
 			navigator.notification.vibrate(3000);
 		});
 		$('#beep').tap(function(){
-			navigator.notification.beep(1);
+			navigator.notification.beep(5);
 		});
 	});
 });

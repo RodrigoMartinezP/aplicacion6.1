@@ -7,10 +7,10 @@
 	
   <!--versionCode es opcional and Android only-->
   
-  <name>Aplicacion seis Vibración y beepeo del Dsipositivo</name>
+  <name>Aplicacion seis Vibración del Dsipositivo</name>
   
   <description>
-	Aplicacion que hace que vibre y bepee el dispositivo.
+	Aplicacion que hace que vibre el dispositivo.
   </description>
   
   <preference name="phonegap-version" value="3.1.0"/>
